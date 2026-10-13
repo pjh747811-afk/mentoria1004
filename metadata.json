@@ -1,0 +1,6 @@
+{
+  "name": "Mentoria - 멘토리아 현직자 멘토링 & 정부지원사업 매칭",
+  "description": "신뢰할 수 있는 현직 대기업 멘토링과 맞춤형 정부지원사업 연계 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
